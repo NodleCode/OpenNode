@@ -11,6 +11,8 @@ Extender Module:
 
 ## CAD File
 https://cad.onshape.com/documents/316cd9ed33c458cd73b28ece/w/db9c7f5ecd3d8b58a5007c36/e/6799c84f86b383e823056bb1
+Bambu Print Files
+https://makerworld.com/en/models/1073247#profileId-1063589
 
 More coming soon... 
 
