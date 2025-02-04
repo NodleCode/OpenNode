@@ -1,3 +1,4 @@
+# The Open Node Project
 Enabling anyone to deploy enterprise-grade, decentralized physical infrastructure.
 
 Starting with the best open-source, 3D-printable 3U+ 10-inch server rack design.
