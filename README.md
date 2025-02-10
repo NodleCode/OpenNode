@@ -5,14 +5,6 @@ Starting with the best open-source, 3D-printable 3U+ 10-inch server rack design:
 
 ![IMG_0948](https://github.com/user-attachments/assets/9e8bf610-d241-4fcd-8ff2-a7f76825573e)
 
-Highly reccomend using Threaded inserts and (purple) thumb screws 
-<img width="1299" alt="Screenshot 2025-02-09 at 5 47 17 PM" src="https://github.com/user-attachments/assets/cb354a3d-4c9f-4386-874c-ec1b13802f49" />
-
-
-![IMG_0948](https://github.com/garrettekinsman/OpenNode/blob/main/Images/OpenNode_Prototype.jpg)
-Extender Module: 
-![IMG_0953](https://github.com/user-attachments/assets/e14ed8db-cfce-4578-b2a3-f576f8d36c59)
-
 ## BOM
 | Part                           | Units        | Notes                                                                                   |
 |--------------------------------|--------------|-----------------------------------------------------------------------------------------|
@@ -25,6 +17,21 @@ Extender Module:
 | M3x6 Thumb Screws             | as needed    | [Link](https://www.amazon.com/dp/B0DBM1JJRJ?ref=ppx_yo2ov_dt_b_fed_asin_title)          |
 | or                            |              |                                                                                         |
 | #10 x 5/8 in self-tapping screws | as needed    |                                                                                         |
+
+## Print Instrutions 
+
+Min bed size 250x250mm (printed on a Bambu P1S)
+<img width="935" alt="Screenshot 2025-02-10 at 12 29 58 PM" src="https://github.com/user-attachments/assets/e378a477-0a03-4e4c-9432-db2023f4e55d" />
+
+
+Highly reccomend using Threaded inserts and (purple) thumb screws 
+<img width="1299" alt="Screenshot 2025-02-09 at 5 47 17 PM" src="https://github.com/user-attachments/assets/cb354a3d-4c9f-4386-874c-ec1b13802f49" />
+
+
+![IMG_0948](https://github.com/garrettekinsman/OpenNode/blob/main/Images/OpenNode_Prototype.jpg)
+Extender Module: 
+![IMG_0953](https://github.com/user-attachments/assets/e14ed8db-cfce-4578-b2a3-f576f8d36c59)
+
 
 
 ## CAD File
