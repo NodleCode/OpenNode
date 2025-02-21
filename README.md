@@ -6,6 +6,10 @@ The Open Node Project enables anyone to deploy enterprise-grade, decentralized p
 
 ![IMG_0948](https://github.com/user-attachments/assets/9e8bf610-d241-4fcd-8ff2-a7f76825573e)
 
+##Extension: 
+<img width="928" alt="Screenshot 2025-02-21 at 8 53 17 AM" src="https://github.com/user-attachments/assets/97e1fc1d-d1d9-4c5b-8f0a-0aed090b6307" />
+
+
 ## Projects supported
 * The Open Node Rack + Extension
 * Coming Soon... 
